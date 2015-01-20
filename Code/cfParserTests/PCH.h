@@ -1,5 +1,5 @@
 #pragma once
 
-#include <cfParser/pch.h>
+#include <cfParser/PCH.h>
 
 #define CATCH_CONFIG_PREFIX_ALL

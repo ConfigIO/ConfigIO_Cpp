@@ -1,4 +1,4 @@
-#include "cfParserTests/pch.h"
+#include "cfParserTests/PCH.h"
 #include <catch.hpp>
 
 CATCH_TEST_CASE("Common functionality", "[common]")
